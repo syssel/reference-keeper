@@ -6,7 +6,7 @@ Setup
 ---
 The project is build on the [trello-power-up-skeleton](https://glitch.com/edit/#!/trello-power-up-skeleton?path=README.md%3A1%3A0).
 
-If you remix this on [Glitch](https://glitch.com/edit/#!/reference-keeper), you'll be able to register the app as custom Power-Up and add it to boards in workspaces where you are admin:
+If you remix this on [Glitch](https://glitch.com/edit/#!/reference-keeper?path=README.md), you'll be able to register the app as custom Power-Up and add it to boards in workspaces where you are admin:
 
 👉  [Managing Trello Power-Ups](https://developer.atlassian.com/cloud/trello/guides/power-ups/managing-power-ups/)
 - For the iFrame connecter choose `https://GLITCH-PROJECT-NAME.glitch.me/` (auto-generated when remixed)
