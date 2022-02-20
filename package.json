@@ -1,0 +1,25 @@
+{
+  "name": "reference-keeper",
+  "version": "0.0.1",
+  "description": "A Trello Power-Up that converts arXiv and ACL papers to Trello cards",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "cors": "2.8.5"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": "https://github.com/syssel/reference-keeper"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
